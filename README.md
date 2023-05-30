@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anujtiwari21
 - 👀 I’m interested in DataScience & Robotics
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning DataScience
 - 💞️ I’m looking to collaborate on Python
 - 📫 You can message me
 
